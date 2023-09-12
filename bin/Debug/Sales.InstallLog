@@ -1,0 +1,471 @@
+﻿Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe.
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe.
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.exe
+   logfile = C:\Users\wolfsum\source\repos\Sales\Sales\bin\Debug\Sales.InstallLog
